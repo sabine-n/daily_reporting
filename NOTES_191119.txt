@@ -7,10 +7,13 @@ Intro to Python on slides with Rafik (Slides will be sent to the Drive)
 Taĉhes à faire:
 
     [A] Installer Anaconda. J'ai suivi les instructions sur https://docs.anaconda.com/anaconda/install/linux/
-    [A] Utiliser soit Spyder soit Jupyter soit le shell pour résoudre 3 exercices de maths avec python. (Moi j'ai utilisé Spyder.)
-	ex1 Résoudre une équation du 2nd degré
-	ex2 Réduire une somme de fraction à l'aide du gcd
-	ex3 Caluler le volume d'un cône droit en saisissant les valeurs du rayon et de la hauteur à l'aide de input()
-	
+    [A] Utiliser soit Spyder soit Jupyter soit le shell pour résoudre 3 exercices de maths avec python en utilisant la librairie "math":
+          (Moi j'ai utilisé Spyder et j'ai testé avec Jupyter et le shell)
+    	 ex1 Résoudre une équation du 2nd degré
+	 ex2 Réduire une somme de fraction à l'aide du gcd
+	 ex3 Caluler le volume d'un cône droit en saisissant les valeurs du rayon et de la hauteur à l'aide de input()
+    [A]	Deux exercices sur le if statement:
+    	 ex1 Determiner si nombre est paire ou impaire
+	 ex2 Identifier si un triangle est rectangle, étant donné la longueur de ses 3 côtés
 	
 
