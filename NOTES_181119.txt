@@ -32,5 +32,6 @@ Tâche 2
    [A] Load on MySQL : CREATE DATABASE [name of database], USE [name of database], source [directory of .sql file]
    [A] Practice SQL queries by answering 10 questions given by Rafic
    [A] Create account on Mode.com, load test databases
-   [ECA] Continue practicing    	       	       
+   [ECA] Continue practicing
+   [A] Install and use WORKBENCH : graphical interface for using MySQL (or another SGBD)
 		   		   
