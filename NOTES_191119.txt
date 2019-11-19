@@ -1,0 +1,16 @@
+Intro to Python on slides with Rafik (Slides will be sent to the Drive)
+      --> Pourquoi utiliser Python?
+      --> Comment utiliser Python?
+      --> C'est quoi Anaconda? Jupyter notebook
+
+
+Taĉhes à faire:
+
+    [A] Installer Anaconda. J'ai suivi les instructions sur https://docs.anaconda.com/anaconda/install/linux/
+    [A] Utiliser soit Spyder soit Jupyter soit le shell pour résoudre 3 exercices de maths avec python. (Moi j'ai utilisé Spyder.)
+	ex1 Résoudre une équation du 2nd degré
+	ex2 Réduire une somme de fraction à l'aide du gcd
+	ex3 Caluler le volume d'un cône droit en saisissant les valeurs du rayon et de la hauteur à l'aide de input()
+	
+	
+
