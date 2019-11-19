@@ -17,3 +17,5 @@ Taĉhes à faire:
 	 ex2 Identifier si un triangle est rectangle, étant donné la longueur de ses 3 côtés
 	
 
+En attendant que les autres finissent, Rafik m'a filé les diapo pour continuer la lecture.
+[A] Thème : Etapes de construction d'un modèle, la librairie Pandas. 
