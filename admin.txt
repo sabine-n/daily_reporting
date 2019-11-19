@@ -1,0 +1,5 @@
+
+18/11/2019
+    - Do not precise "en formation on pole emploi"
+    - Christmas holiday : 23/12 au 01/01 inclus
+    - Il faut chercher un stage en mois de MARS
