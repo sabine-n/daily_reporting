@@ -1,0 +1,65 @@
+Quick summary of first 2 days
+
+DAY 1 :
+
+"SAMBA"
+
+- Un projet se définit par 3 notions : Le coût noté "C", le Temps/Délais noté "D" et la Qualité notée "Q".
+- Il faut se demander quel est le problème? ou pourquoi on a ce problème?
+- Méthode SWOT (Strength, Weakness, Opportunity and Threat) pour situer et analyser le projet. Déterminer le SWOT du problème le rend plus harmonieux.
+- Déterminer les W et T permet d'identifier et de gérer les risques (internes et externes) liés à ce projet en terme de C, D et Q.
+- On identifie également par la notion de SWOT la notion de "individuel" et "groupe".
+- Si WT > SO, on choisit: arrêter, Réevaluer ou chercher des solutions/conseils. STOP & GO.
+
+###############################################################################
+
+TÂCHE :
+ DUE : 18/11/2019
+ TASK : RECHERCHER 10 OFFRES D'EMPLOI DE DEV DATA (OU LIÉ) --> BESOIN DU MARCHÉ: COMPÉTENCES REQUISES, GRILLE DE SALAIRES, Key Performace Indicator ETC.
+
+###############################################################################
+
+
+"RAFIK"
+
+- SGBD : Système de Gestion de Base de Donnée, ex: PostGre, DjangodB, MySQL.
+- BD : Base de Donnée. Donnée =! Information. La valorization de la donnée permet d'en tirer de l'information.
+- SGBD : Système de Gestion de Base de Donnée, ex: PostGre, DjangodB, MySQL.
+       	 - Collecter
+	 - Nettoyer la donnée (donnée redondent, etc.)
+	 - Représentation --> Data visualisation : use of PYTHON, TABLEAUPUBLIQUE (??)
+	 
+
+##############################################################################################################################################################
+
+DAY 2: "SAMBA"
+
+PRAIRIE : Espace
+
+- Projet --> Suivi de projet --> 2 approches
+  	     CLASSIQUE : Top/down, waterfall --> Classer les livrables suivant jâlon (délais) 
+	     AGILE : Classement par thème, livrer les tâches incrementally --> mode circulaire, itératif, intégral.
+	     	     SRUM = subset of AGILE, lightweight process framework
+		     Roadmap, KANBAN scheduling system billoard.
+
+- PRAIRIE : Notre cas à simplon
+
+
+    - ÉTAPES DU TRAVAIL / THE BRAINSTORMING:
+    	   1- Quel est le Problème?
+     	     --> Répondre à un besoin du marché en Dev Data
+    	   2- Identifier les acteurs :
+     	     -->Simplon, Apprenants, Formateurs, Pôle Emploi, Entreprises, Le Cloître
+     	   3- Test de CAPACITÉS en terme de :
+     	     --> Motivation, Performances, Autonomie, Organisation, Orientation, Assiduité, Valorisation, Communication
+     	   4- Critères du test :
+     		 - Assiduité : feuille d'émargement
+		 - Motivation : moyenne sur les 15 jours sur le nombre de happy/normal/sad faces //OR// intérêt, l'envis..  
+
+     - RÉSULTAT DU BRAINTORMING : on est dans la praire pour:
+   
+		--> PERIODE D'ESSAI DE 15 JOURS POUR SAVOIR SI LES APPRENANTS ONT LA CAPACITÉ DE RÉPONDRE À UN BESION DE MARCHÉ EN DEV DATA
+   	  	--> TESTER NOTRE CAPACITÉ À RÉPONDRE AU BESOIN DU MARCHÉ 
+
+- Plan for tomorrow : create gmail, account on git, install  git and test it. Use of carnet de bord for notes. 
+

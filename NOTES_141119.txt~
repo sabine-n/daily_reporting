@@ -1,0 +1,32 @@
+1- How I installed GIT :
+
+    - sudo apt-get install git
+    - Google TOP 20 git commands (https://dzone.com/articles/top-20-git-commands-with-examples)
+    - git clone [url] provided by repository in my github account
+    - I created a test file, git add [file name], git commit -a, git commit -m "comment", git push : ça marche !
+    
+2- I created a LinkedIn account: NEEDS TO BE COMPLETED
+
+
+
+A few issues to work on : (to be modified as we go)
+
+  1- How to use GITHUB in the framework of a group.
+  2- Difficulty getting started with Google's Blogger with new gmail account:
+     Purpose --> taking notes during session.
+     Temporary solution --> using ubuntu's txt instead. ///// works with nasr.sabine@gmail.com ///// 
+  3- Gestion de projet pour les nuls dans le developpement d'application de Donnée
+  4- Data driven developpement
+  5- Trouver outil de gestion de suivi de projet   
+
+Difficulties faced :
+
+How to create repository locally without the use of github.com:
+
+1- Create SSH key
+2- Link it to my github account --> https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+4- ssh -T git@github.com to test the SSH connection to github account
+5- sudo apt-get update and upgrade
+6- sudo snap install hub --classic
+7- IMPPORTANT NOTE !! update and upgrade after each installation of package !!
+8- steps to create repository: git init, git commit, hub create [name of repo], git push origin master
