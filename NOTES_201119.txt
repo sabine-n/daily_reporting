@@ -17,7 +17,8 @@ Proposer un petit programme en Python qui, à partir de la liste complète des p
 
 Deadline : December 16th at 12:30
 
-    [A] Phase préparatoire :
+
+    [A] Phase préparatoire : Travail de groupe : Sabine, Amaria, Noémie et Romain
     We came up with two methods : Easy, fast and convenient AND more complex but fun to think about and implement. Let's call them methods 1 and 2.
 
     Method 1 :
