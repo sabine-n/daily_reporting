@@ -1,0 +1,7 @@
+
+- Definition de d'un language de programmation orienté objet --> Python
+- comment utiliser range, if, while, for, etc.
+
+Pratique:
+   [A] Ex1 Utiliser while pour afficher le prix TTC après sais du prix HT. doit se répéter tant que prix_HT diff de zero
+   [A] Ex2 Utiliser for (ou while) pour vérifier si une liste est palindrome
