@@ -1,0 +1,14 @@
+ ### Introduction à l'Analyse expoloratoire:
+ 
+    - Types de données: quantitatives continues, quantitatives discrètes, qualitatives nominales, qualitatives ordinales.
+
+1- Analyse Univariée:
+
+   Notions de moyenne, médiane, quartiles, mode.
+   la variance --> mesure la dispersion des valeurs d'un échantillon autour de sa moyenne v(x) = \frac{1}{18} \sum_{i=1}^{18} (x_i - \bar{x}
+   l'écart-type --> racine carré de la variance / la moyenne quadratique des écarts par rapport à la moyenne
+   Les graphiques --> Représentation de données statistiques. Les données déterminent le type de graphique qui les représentent. ex: Diagramme circulaire (qualitatif), diagramme en barres (quantitatif discret), histogramme, courbe (série quantitative en évolution), nuage de points (représenter les individus en fonction de 2 critères quantitatifs, matérialisés par deux axes) 
+
+Tâches:
+
+[ECA] Récupérer des données sur le drive (auto-mpg) et utiliser la librairie pandas pour manipuler les données. 
