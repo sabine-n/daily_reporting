@@ -9,7 +9,7 @@ Pratique:
 ## Algorithmique
 
 - Algorithme = Liste d'instructions à suivre pour résoudre un problème
-- Etapes pour écrire un algorithme : Phase préparatoire, traitement et sortie des résultats.
+- Etapes pour écrire un algorithme : Phase préparatoire : analyse du problème posé, traitement : écrire un algoritme indépendemment d'un language de programmation et finalement, traduire en language de programmation.
 
 ## Défis:
 
@@ -37,8 +37,8 @@ Deadline : December 16th at 12:30
      Output = Original list (givers) vs. New list (takers) (evidently with names)
      
     
-    [NA] Traitement :
-    [NA] Sortie des résultats
+    [A] Phase 2 : Description of algorithms (above)
+    [A] Phase 3 (rédaction du code) nous avons choisi la méthode 1. 
 
 
 
