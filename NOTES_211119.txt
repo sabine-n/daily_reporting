@@ -11,4 +11,5 @@
 
 Tâches:
 
-[ECA] Récupérer des données sur le drive (auto-mpg) et utiliser les librairies pandas et matplotlib pour manipuler les données. 
+[A] Récupérer des données sur le drive (auto-mpg) et utiliser les librairies pandas et matplotlib pour manipuler les données.
+[ECA] Connecter une BD MySQL sur Python à l'aide de la librairie Pandas
