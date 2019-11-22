@@ -6,3 +6,4 @@ Tasks:
    [A] Etablir une connection entre mysql et python
    [A] Chercher des bases de données accessibles en ligne. (data.gouv.fr, data/angers.fr)
    
+! NOTE TO SELF: NEED TO BETTER EXPLORE THE MATPLOTLIB LIBRARY !
