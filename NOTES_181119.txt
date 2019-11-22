@@ -25,7 +25,7 @@ EXERCICE 1 (Tâche)
      N.B. Travail de groupe : Sabine, Noémie et Amaria
 
 Tâche 2
-   [A] Installer MySQL
+   [A] Installer MySQL  https://support.rackspace.com/how-to/installing-mysql-server-on-ubuntu/
    [A] Login joint gmail : devdatap7@gmail.com
        	     	   password : devdata2020
    [A] Download jeux_video.sql from Drive
