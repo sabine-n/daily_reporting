@@ -31,11 +31,10 @@
 Mise en place de suivi: Roadmap -> définir un programme, des objectifs.
 
 [A] Start up pour les 6 groupes (Ateliers)
-[] Veille sur Markdown
+[A] Veille sur Markdown
 [A] Event "Reverse Mentoring"
-[] Atelier Trello
 [A] Faire 3 tableau sur Trello : Suivi, Business et Roadmap
-
+[ECA] Install Readthedocs
 
 
 **REVERSE MONITORING**
@@ -46,3 +45,8 @@ Mise en place de suivi: Roadmap -> définir un programme, des objectifs.
 - Key women figures who worked in DATA ( Lovelace, Lamarr )
 - Importance of pushing women into the business : intérêt d'avoir un regard mixte.
 - Quels sont les métiers du numérique? Que fait un développeur informatique?
+
+
+** MarkDown **
+Lightweight makeup language with plain text formatting syntax
+Used in Readme files, online messages etc.
