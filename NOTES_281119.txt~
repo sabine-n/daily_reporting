@@ -1,0 +1,47 @@
+* veille = session d'étude, reinseignement sur une nouvelle technologie, ex de veille technique: suivi de projet, Python, SQL, math/stat environnement (ubuntu, outils..), ex de veille documentaire: business, finding des entreprises, renseignement sur différents métiers.
+
+* Stand-up = faire le point en groupe
+
+* Ateliers : environement, Python, SQL, DATA, Math/Stat, Suivi de projet
+
+  	        PROJET DATA
+	     	     |
+		     |
+	           SUIVI
+	             |
+       	  Interne	  	Externe
+            Nous         Client + Partie prenante
+           (Agile)        (Agile ou classique)
+      		     |
+	        mode de suivi
+	    	     |
+         **AGILE**	   **CLASSIQUE**
+	*Roadmap             *GANTT : Waterfall
+    types: storymap	     *google sheets 
+    	   goal oriented
+	   now/next/later
+	*Trello --> Kanban
+		     |
+		     |
+		 LE MANUEL
+	     -> Documentation projet DATA
+	     -> Documentation technique
+
+
+Mise en place de suivi: Roadmap -> définir un programme, des objectifs.
+
+[A] Start up pour les 6 groupes (Ateliers)
+[] Veille sur Markdown
+[A] Event "Reverse Mentoring"
+[] Atelier Trello
+[A] Faire 3 tableau sur Trello : Suivi, Business et Roadmap
+
+
+**REVERSE MONITORING**
+
+- Minecraft coding sur studio.code.org using blocks where each block represents a JavaScript code.
+- Animer un atelier pour les enfants (6-7 ans)
+- Data is everywhere, what is code? where do we find code?
+- Key women figures who worked in DATA ( Lovelace, Lamarr )
+- Importance of pushing women into the business : intérêt d'avoir un regard mixte.
+- Quels sont les métiers du numérique? Que fait un développeur informatique?
