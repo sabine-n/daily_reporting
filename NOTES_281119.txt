@@ -33,7 +33,7 @@ Mise en place de suivi: Roadmap -> définir un programme, des objectifs.
 [A] Start up pour les 6 groupes (Ateliers)
 [A] Veille sur Markdown
 [A] Event "Reverse Mentoring"
-[A] Faire 3 tableau sur Trello : Suivi, Business et Roadmap
+[ECA] Faire 3 tableau sur Trello : Suivi, Business et Roadmap
 [ECA] Install Readthedocs
 
 
