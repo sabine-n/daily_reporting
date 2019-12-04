@@ -1,8 +1,0 @@
-Yesterday, at the end of the day I had a problem connecting mysql to python. The nature of the problem was of authentification type.
-Problem was solved this morning by following the instructions on : https://stackoverflow.com/questions/39281594/error-1698-28000-access-denied-for-user-rootlocalhost
-
-Tasks:
-
-   [A] Etablir une connection entre mysql et python
-   [A] Chercher des bases de données accessibles en ligne. (data.gouv.fr, data angers)
-   
