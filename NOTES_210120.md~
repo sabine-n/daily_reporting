@@ -1,0 +1,14 @@
+# Reporting 20 jan 2020
+
+On continue le travail sur le projet open data.
+C'est un travail qui a commencé le 06/01/2020.
+Les étapes sont les suivantes :
+
+-[] Importation de la base Sirene (stock etablissement et l'historique) sur site :
+  	https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/#_
+
+-[] Veille sur la documentation des deux tables.
+
+-[] Téléchargement des tables etablissement et historique relatives à la villes de Marseille fournies par Rafik
+
+-[] Brainstorming autour des requêtes que pourrait faire notre appli.
