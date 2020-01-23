@@ -2,8 +2,8 @@
 
 
 ## Introduction de DataActivist
-Joël Gombin = Conseil, préparation et mise à disposition de la donnée, pas bcp \
-de data analysis
+Joël Gombin = Conseil, préparation et mise à disposition de la donnée, pas bcp de data analysis
+
 Xaringan = An R package for creating slideshows with remark.js through R Markdown
 
 ## What is Data?
@@ -14,13 +14,20 @@ Xaringan = An R package for creating slideshows with remark.js through R Markdow
 
 ## What is Open Data?
 
+Principes de l'Open Data:
 
-Données Primaires
+-> Rencontre de Sébastopol pour influencer le futur président des Etats Unis pour faire avancer l'open data. -> Définition des principes de l'open data:
 
-Données complètes
+1. Données complètes : ttes les données publiques -> dispos
+2. Données Primaires : données telles que collectées à la sources
+3. Données fraiches (timely) : dispos dès qu'elles sont produites
+4. Données accessibles : Utilisables par le + grd nb d'usagers potentiels
+5. Données exploitables par les machines
+6. Données non-discriminatoire
+7. Données dans un format ouvert
+8. Licence ouvertes : domaine publique ou licence conforme à l'open definition Lic ouverte (CC-BY) ou ODBL open database licence (CC-BY-SA)
 
-Licences : CCBY et CCBYSA -> ODBL
-
+Grands défis : Découvrabilité de la donnée, Qualité,
 Open Data government
 
 Open Street Map vs Google Maps
