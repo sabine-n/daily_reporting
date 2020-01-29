@@ -8,7 +8,9 @@
  
  - The status of a given task is marked within [ ], inside which : 
  
-        A = "acquis" (french for "done") or ECA = "en cours d'acquisition" (french for "pending")
+      Either  A = "acquis" (french for "done") or ECA = "en cours d'acquisition" (french for "pending")
+
+      Or just a tick - [x] to mark a task as "Done"
  
  - I'll be using a mixure of french and english, since this is how my brain works !
  
