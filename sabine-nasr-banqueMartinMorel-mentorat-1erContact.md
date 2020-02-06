@@ -7,7 +7,7 @@
 
 * Mentors: Une vingtaine d'accompagnants partenaires de la banque RMM
 
-Les mentors s'engagent sur la base de ***volontariat*** à accompagner des jeunes professionnels pour les aider dans leur candidatures. Ça peut être des simulations d'entretien, regard sur le CV, la lettre de motivation, des clés et des astuces, la posture, comment répondre à une candidature et surtout la possibilité de profiter du réseau des mentors. 
+Les mentors s'engagent sur la base de ***volontariat*** à accompagner des jeunes professionnels pour les aider dans leur candidatures. Ça peut être des simulations d'entretien, regard sur le CV, la lettre de motivation, des clés et des astuces, la posture, comment répondre à une annonce et surtout la possibilité de profiter du réseau des mentors. 
 
 * Disponibilité : 2 hrs / mois à partir du plutôt possible : un petit déj à organiser à la banque une fois les apprenants désignés.
 * Forme de contact : sur place, par mail, tél, déjeuner, etc.
